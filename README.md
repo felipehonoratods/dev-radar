@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <br>
@@ -31,7 +31,7 @@
   <img alt="Frontend" src=".github/devradar.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :rocket: Technologies
 
 Technologies used in the project:
 
@@ -40,7 +40,7 @@ Technologies used in the project:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 Project
 
 DevRadar is a project that aims to connect developers with customers through the locality.
 
@@ -50,6 +50,6 @@ You can download the project layout in `.sketch` format via [desse link](.github
 
 To open the file in `.sketch` format on any operating system use the tool [Figma](https://figma.com).
 
-## :memo: Licença
+## :memo: License
 
-This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See the file [LICENSE](https://github.com/felipehonoratods/dev-radar/blob/master/LICENSE) for more details.
